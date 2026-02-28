@@ -19,3 +19,7 @@ Smooth transitions and typing effects.
 HTML5 - For structure and semantic markup.
 CSS3 - Custom styling, animations, flexbox layouts, and variables for easy theming.
 JavaScript (Vanilla) - Handles all the logic, time calculations, canvas rendering for confetti, and DOM manipulation.
+
+
+
+#Playable URL:birthday-websity.netlify.app
